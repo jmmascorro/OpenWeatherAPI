@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "famZB7wHK5J0CKXl4AvVNDA41IUa9hj/y4QDmuov3dEOZsltaN6pxMFRZ8H1gF/tiURiBqUHRnJBkHCjkbU+8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jesse mascorro\\repos\\OpenWeatherAPIExercise\\OpenWeatherAPIExercise\\OpenWeatherAPIExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jesse mascorro\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
